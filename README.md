@@ -8,7 +8,7 @@
 
 <div align="center">
     <a href="https://discord.com/users/350976460313329665" target="_blank"><img src="https://shields.io/badge/Ry%C3%A9w-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://github.com/ryewjs" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=github"></a>
+    <a href="https://github.com/ryewjs" target="_blank"><img src="https://shields.io/badge/Ryéw-111111.svg?&style=for-the-badge&logo=github"></a>
     <a href="https://ryew.ml" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
 </div>
 
